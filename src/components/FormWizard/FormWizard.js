@@ -115,7 +115,7 @@ function FormWizard() {
                 <span className='dashboard-txt'>Premium: {premium}</span>
                 <div>
                     <button className='btn btn-secondary m-10' onClick={() => { setSummaryScreen(false) }}>Back</button>
-                    <button className='btn btn-primary m-10'>Buy</button>
+                    <button className='btn btn-primary m-10' onClick={() => { navigate("/") }}>Buy</button>
                 </div>
             </div>}
         </div>
