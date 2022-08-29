@@ -2,7 +2,7 @@
   "name": "covergo_frontend_form_wizrd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kulkarniabhi02.github.io/covergo_frontend_form_wizrd",
+  "homepage": "https://kulkarniabhi02.github.io/covergo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
