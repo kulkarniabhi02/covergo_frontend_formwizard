@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/covergo/static/css/main.4a580ecf.css",
+    "main.js": "/covergo/static/js/main.0454cec4.js",
+    "static/js/787.bf1e9371.chunk.js": "/covergo/static/js/787.bf1e9371.chunk.js",
+    "index.html": "/covergo/index.html",
+    "main.4a580ecf.css.map": "/covergo/static/css/main.4a580ecf.css.map",
+    "main.0454cec4.js.map": "/covergo/static/js/main.0454cec4.js.map",
+    "787.bf1e9371.chunk.js.map": "/covergo/static/js/787.bf1e9371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a580ecf.css",
+    "static/js/main.0454cec4.js"
+  ]
+}
