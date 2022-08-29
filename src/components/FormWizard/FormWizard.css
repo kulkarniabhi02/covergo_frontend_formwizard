@@ -1,0 +1,34 @@
+.form-wizard {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-element {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 20px auto;
+}
+
+.form-element label {
+    text-align: left;
+    padding-bottom: 5px;
+}
+
+.form-element:last-child {
+    width: 60%;
+    height: 470px;
+    background-color: lightgray;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    z-index: 100;
+}
+
+.radio {
+    margin: 20px;
+}
+
+.container-height {
+    height: 590px;
+}
